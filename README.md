@@ -1,4 +1,4 @@
-Job Platform built with ReactJS and Tailwind CSS.
+# Job Platform built with ReactJS and Tailwind CSS.
 
-Screenshot
+# Home Page
 ![Job Platform](JobsPlatform.png)
